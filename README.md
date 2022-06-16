@@ -56,13 +56,17 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5a.png?raw=true)
+
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5b.png?raw=true)
+
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5c.png?raw=true)
+
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5d.png?raw=true)
+
+![output](https://github.com/gunasekhar159/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5e.png?raw=true)
+
+
 
 
 ## Result:
